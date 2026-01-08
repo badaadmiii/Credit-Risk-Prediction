@@ -16,6 +16,7 @@ Because of this, focused more on **recall** rather than accuracy, so that fewer 
 The dataset contains information about customers’ credit limits, bill amounts, payment history, and repayment behavior.  
 The target variable shows whether a customer defaulted or not.  
 The data is imbalanced, with fewer default cases compared to non-default cases.
+The dataset is publicly available on Kaggle and is not included in this repository.
 
 ---
 
